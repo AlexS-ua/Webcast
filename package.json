@@ -1,0 +1,16 @@
+{
+  "name": "webcast",
+  "version": "1.0.0",
+  "description": "Allows to craete broadcast using WebRTC technology and peer to peer connections.",
+  "main": "WebcastServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Liubomyr B., Qbix",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "graceful-fs": "^4.2.8",
+    "socket.io": "^4.3.1"
+  }
+}
